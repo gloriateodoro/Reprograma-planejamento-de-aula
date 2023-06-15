@@ -29,7 +29,7 @@ obs: as instalações em outros sistemas operacionais estão indicadas nos links
 - Contextualização sobre os tipos de Loops, como eles são na linguagem Python e as diferenças lógicas entre eles, mostrando exemplos visuais: mindmaps do Miro, blocos de código e um vídeo do tiktok que foram anexados à apresentação.
 - Conceitos apresentados inicialmente sempre de forma concisa, direta e clara, evitando exemplos com muitas complexidades. Exercícios mais complexos serão feitos na próxima etapa, com o Júpiter Notebook, e no exercícios práticos individuais/em grupo.
 - Abrir espaço para dúvidas sobre a contextualização
-- Link da apresentação visual
+- [Link da apresentação visual](https://www.canva.com/design/DAFl1mm4qiE/VEeMxkgKzTHZa2nIJbM4kg/edit?utm_content=DAFl1mm4qiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Mão na Massa na sala principal (15 minutos)
 
