@@ -47,7 +47,7 @@ obs: as instalações em outros sistemas operacionais estão indicadas nos links
 
 ## Encerramento (10 minutos)
 
-- Apresentação de um exercício individual para casa, que deverá ser anexado no Classroom. O exercício consistirá em escolher um dos 5 exercícios, de acordo com o interesse de cada pessoa, e respondê-los utilizando Loops:
+- Apresentação de um exercício individual para casa, que deverá ser anexado no Classroom. O exercício consistirá em escolher um dos 4 exercícios, de acordo com o interesse de cada pessoa, e respondê-los utilizando Loops:
     1. **Soma dos números pares**: Escrever um loop que itere de 1 a 10 e calcule a soma dos números pares nesse intervalo.
     2. **Tabuada**: Escrever um loop `for` que imprima a tabuada de multiplicação de um número específico (por exemplo, 5). O loop deve iterar de 1 a 10 e exibir cada multiplicação (1x5, 2x5, 3x5, etc.).
     3. **Contagem regressiva interativa**: Escrever um loop `while` que exiba uma contagem regressiva interativa a partir de um número fornecido pelo usuário. O programa deve aguardar alguns segundos entre cada contagem usando a função `time.sleep()`.
